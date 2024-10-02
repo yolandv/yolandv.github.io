@@ -1,0 +1,13 @@
+body {
+    /* Het lettertype instellen */
+    font-family: sans-serif;
+    background-color: gold;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.inspringen {
+    margin-left: 100px;
+}
